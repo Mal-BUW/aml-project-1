@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 def load_data(data_path: Path) -> pd.DataFrame:
-    data_path
-    """
+
+    """test
     Load and preprocess data from a CSV file. Remove rows with unlabeled data.
 
     Args:
